@@ -9,6 +9,7 @@
 	const dataContainer = ["This ", "is ", "some ", "text! "];
 	const newContainer = ["This", "is", "a", "join", "method", "result!"];
 	const billandTed = ["I am Bill S Preston, Esq", "And I am Ted Theodore Logan. Party on dude!"]
+	//arrays above refer to 0^ and 1 (Ted). Replace with Bio information
 
 
 	function showBioInfo() {
